@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to **[git.6b6t.org/6b6t/StrokkCommands](https://git.6b6t.org/6b6t/StrokkCommands)**. This GitHub copy is archived and no longer updated.
+
 # StrokkCommands
 
 **StrokkCommands** is a very simple and lightweight compile-time library for generating Brigadier command trees
